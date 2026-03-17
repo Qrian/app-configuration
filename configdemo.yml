@@ -1,5 +1,5 @@
 build:
   id: 100001
   version: 1.200.3
-  name: "dev-git-production-build"
-  type: "git deploymentBuild"
+  name: "default-git-production-build"
+  type: "git default Build"
